@@ -1,2 +1,2 @@
 # Download-Manager
-Download Manager for android java
+Download Manager with Android Studio (download, upload and display with grid layout)
