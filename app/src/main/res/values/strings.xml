@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Download_Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="upload">Upload</string>
+    <string name="gallery">Gallery</string>
+    <string name="download">Download</string>
+</resources>

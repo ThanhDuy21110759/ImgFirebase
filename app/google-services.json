@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "496338510328",
+    "firebase_url": "https://shopshop-a4f03-default-rtdb.firebaseio.com",
+    "project_id": "shopshop-a4f03",
+    "storage_bucket": "shopshop-a4f03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496338510328:android:85d3f7ce104df43d99360d",
+        "android_client_info": {
+          "package_name": "com.example.download_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGq4qypSlA7Gcikz8RiDl1grHKcZq7ZrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496338510328:android:2ac238ba55c74e1a99360d",
+        "android_client_info": {
+          "package_name": "com.example.imageuploader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGq4qypSlA7Gcikz8RiDl1grHKcZq7ZrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496338510328:android:3a86583314a0c28599360d",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGq4qypSlA7Gcikz8RiDl1grHKcZq7ZrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
