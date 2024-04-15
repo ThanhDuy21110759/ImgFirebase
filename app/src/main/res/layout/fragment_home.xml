@@ -32,6 +32,7 @@
         <androidx.recyclerview.widget.RecyclerView
             android:layout_width="match_parent"
             android:id="@+id/data_list"
+            android:layout_marginBottom="80dp"
             android:layout_below="@id/add_download_list"
             android:layout_height="match_parent"/>
     </LinearLayout>
